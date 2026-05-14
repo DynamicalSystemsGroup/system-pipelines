@@ -60,7 +60,7 @@ This project requires Python 3.6 or later. To install the necessary dependencies
 2. Clone this repository:
 
    ```
-   git clone https://github.com/BlockScience/system-pipelines.git
+   git clone https://github.com/DynamicalSystemsGroup/system-pipelines.git
    cd system-pipelines
    ```
 
